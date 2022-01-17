@@ -504,7 +504,7 @@ Love to impress you Instragram followers? Here are the places where you can take
 
 #### 7. NHAMAI
 
-<img sre="media/Nhamai.jpg" width="500"/>
+<img src="media/Nhamai.jpg" width="500"/>
 
 * ราคาสบายกระเป๋า น้ำจิ้มอร่อยสุดๆ เหมาะพาแฟนไปเดท แต่ถ้าไม่มีก็ไปกับเพื่อนก็ได้ 55555555
 * ร้านเปิดทุกวัน 16.00 - 24.00 น.
